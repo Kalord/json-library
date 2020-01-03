@@ -5,14 +5,14 @@
 namespace json
 {
 	/**
-	 * Класс для разбора JSON объекта и для кодирования данных в JSON
+	 *  РљР»Р°СЃСЃ РґР»СЏ СЂР°Р·Р±РѕСЂР° JSON РѕР±СЉРµРєС‚Р° Рё РґР»СЏ РєРѕРґРёСЂРѕРІР°РЅРёСЏ РґР°РЅРЅС‹С… РІ JSON
 	 *
 	 * @author Artem Tyutnev <artem.tyutnev.developer@gmail.com>
 	 */
 	class JSONParser
 	{
 		/**
-		 * Серия метод для кодирования данных в JSON 
+		 * РњРµС‚РѕРґС‹ РґР»СЏ РєРѕРґРёСЂРѕРІР°РЅРёСЏ РґР°РЅРЅС‹С… РІ JSON
 		 */
 
 		static void encode(std::string key, std::string value);
